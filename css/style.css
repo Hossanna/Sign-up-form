@@ -97,30 +97,31 @@
         cursor: pointer;
     }
     .section{
-        width: 85%;
-        padding: 0 8%;
+        width: 80%;
+        padding: 2% 10%;
     }
     .section__text{
-        width: 100%;
+        width: 90%;
         color: white;
-        padding-top: 15px;
+        padding: 5%;
     }
     h1{
-        font-size: 3em;
+        font-size: 2em;
         margin-top: 5%;
         text-align: center;
     }
     #exp{
-        font-size: 1.85em;
+        font-size: 1em;
         text-align: center;
     }
     .sign-up{
-        width: 100%;
+        width: 90%;
+        padding: 2% 5%;
     }
     .button--free{
         width: 100%;
         padding: 0 6%;
-        font-size: 1.5em;
+        font-size: 1em;
         color: white;
         background-color: hsl(248, 32%, 49%);
         border: 0;
@@ -136,9 +137,20 @@
         padding: 3%;
         padding-right: 8%;
         width: 75%;
-        font-size: 1.3em;
+        font-size: 1em;
         margin: 1% 6%;
     }
+
+    .message{
+        padding-left: 6%;
+        margin-top: 0;
+    }
+
+    .message.submit{
+        padding-left: 6%;
+        margin-top: 0;
+    }
+
     #first-name{
         margin-top: 7%;
     }
@@ -159,7 +171,7 @@
     }
     .sign-up__footer{
         width: 87%;
-        font-size: 1.1em;
+        font-size: .8em;
         margin: auto 6%;
         text-align: center;
         padding-top: 2%;
