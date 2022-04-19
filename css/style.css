@@ -97,8 +97,8 @@
         cursor: pointer;
     }
     .section{
-        width: 80%;
-        padding: 2% 10%;
+        width: 100%;
+        padding: 2% 0%;
     }
     .section__text{
         width: 90%;
